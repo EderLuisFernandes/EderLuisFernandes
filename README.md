@@ -18,5 +18,6 @@ Desenvolvedor Full Stack em formação, Análise E Desenvolvimento De Sistemas.
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> 
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  
-
+[!Sr_Fernandes stats stats-Dark](https://github-readme-stats.vercel.app/api?username=EderLuisFernandes&show_icons=true&theme=dark#gh-dark-mode-only)]
+(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
