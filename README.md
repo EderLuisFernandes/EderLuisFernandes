@@ -5,12 +5,16 @@
 <hr>
  <img align="center" alt="Coding" width="100%" height="400px" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 <hr>
+<p font-size=""22px><b>🎯 Me Desenvolvendo Nas Tecnologia</b></p>
+<br>
+ <p> Olá! 👋</p>
+
 Me chamo <b>Eder Luis</b>, tenho 27 anos.
 Desenvolvedor <b>Full Stack</b> em formação,:mortar_board Análise E Desenvolvimento De Sistemas:mortar_board.
 <br>
 <br>
 
-<h1 align="center" >Languages:</h1>
+<h1 align="center" > 🛠 Hard skill:</h1>
 <hr>
 <p align="left">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
@@ -22,7 +26,7 @@ Desenvolvedor <b>Full Stack</b> em formação,:mortar_board Análise E Desenvolv
  <br>
  <br>
  <br>
- <h1 align="Center">Contatos: </h1>
+ <h1 align="Center">Contact </h1>
 <hr>
  <a align="center" href="https://www.linkedin.com/in/eder-luis-fernandes/" target="_blank">
   <img  align="center" text-align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
