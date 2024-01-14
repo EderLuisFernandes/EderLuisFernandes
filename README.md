@@ -26,7 +26,7 @@ Desenvolvedor <b>Full Stack</b> em formação,:mortar_board Análise E Desenvolv
  <br>
  <br>
  <br>
- <h1 align="Center">Contact </h1>
+ <h1 align="Center">Contact: </h1>
 <hr>
  <a align="center" href="https://www.linkedin.com/in/eder-luis-fernandes/" target="_blank">
   <img  align="center" text-align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -39,6 +39,7 @@ Desenvolvedor <b>Full Stack</b> em formação,:mortar_board Análise E Desenvolv
     <br>
  <h1 align="center">:chart_with_upwards_trend:Status: </h1>
  <hr>
+ 
 ![Sr_Fernandes stats](https://github-readme-stats.vercel.app/api?username=EderLuisFernandes&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderLuisFernandes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
