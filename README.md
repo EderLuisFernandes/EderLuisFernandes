@@ -10,7 +10,7 @@
  <p> Olá! 👋</p>
 
 Me chamo <b>Eder Luis</b>, tenho 27 anos.
-Desenvolvedor <b>Full Stack</b> em formação,:mortar_board Análise E Desenvolvimento De Sistemas:mortar_board.
+Desenvolvedor <b>Full Stack</b> em formação, :mortar_board: Análise E Desenvolvimento De Sistemas :mortar_board:.
 <br>
 <br>
 
