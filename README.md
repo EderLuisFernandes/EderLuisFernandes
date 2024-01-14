@@ -1,11 +1,15 @@
-### :sunglasses: Hi there 👋
+<br>
 <br>
 
+<h1 align="center" border="none">:sunglasses: Hello there, I´m <b>Eder</b> 👋 </h1>
+<hr>
+ <img align="center" alt="Coding" width="100%" height="400px" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 <hr>
 Me chamo <b>Eder Luis</b>, tenho 27 anos.
 Desenvolvedor <b>Full Stack</b> em formação,:mortar_board Análise E Desenvolvimento De Sistemas:mortar_board.
 <br>
 <br>
+
 <h1 align="center" >Languages:</h1>
 <hr>
 <p align="left">
