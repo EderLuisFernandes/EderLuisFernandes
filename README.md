@@ -40,7 +40,8 @@ Desenvolvedor <b>Full Stack</b> em formação, :mortar_board: Análise E Desenvo
  <h1 align="center">:chart_with_upwards_trend:Status: </h1>
  <hr>
  
-![Sr_Fernandes stats](https://github-readme-stats.vercel.app/api?username=EderLuisFernandes&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderLuisFernandes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Sr Fernandes stats](https://github-readme-stats.vercel.app/api?username=EderLuisFernandes&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderLuisFernandes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
