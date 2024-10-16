@@ -10,7 +10,8 @@
 <br>
 <h1 align="center">About me</h1>
 <p>
-🚀 Desenvolvedor <b> Full Stack </b>, formado em :mortar_board: Análise E Desenvolvimento De Sistemas :mortar_board: e  especializado em ReactJs, node.
+🚀 Desenvolvedor <b> Full Stack </b>, 
+ formado em :mortar_board: Análise E Desenvolvimento De Sistemas :mortar_board: e  especializado em ReactJs, node.
 Trabalhando profissionalmente com ReactJs e Node desde 2023, melhorando o desempenho e as integrações de aplicativos e tenho experiência no desenvolvimento de ReactJs com sites completos com back-end usanod Nodejs/Express e front-end React.js/Vue.js/vite.
 Tudo coberto com Docker, MongoDb, etc.
 </p>
