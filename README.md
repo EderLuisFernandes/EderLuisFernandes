@@ -6,12 +6,12 @@
 <hr>
  <img align="center" alt="Coding" width="100%" height="400px" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 <hr>
-<p font-size=""22px><b>🎯 Me Desenvolvendo Nas Tecnologia</b></p>
+<p font-size="22px"><b>🎯 Me Desenvolvendo Nas Tecnologia</b></p>
 <br>
 <h1 align="center">About me</h1>
 <p>
-🚀 Desenvolvedor <b> Full Stack </b>, 
- formado em :mortar_board: Análise E Desenvolvimento De Sistemas :mortar_board: e  especializado em ReactJs, node.
+🚀 Desenvolvedor <b> Full Stack. </b> <br/>
+ Formado em :mortar_board: Análise E Desenvolvimento De Sistemas :mortar_board: e  especializado em ReactJs, node.
 Trabalhando profissionalmente com ReactJs e Node desde 2023, melhorando o desempenho e as integrações de aplicativos e tenho experiência no desenvolvimento de ReactJs com sites completos com back-end usanod Nodejs/Express e front-end React.js/Vue.js/vite.
 Tudo coberto com Docker, MongoDb, etc.
 </p>
