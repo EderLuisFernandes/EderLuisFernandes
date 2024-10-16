@@ -6,7 +6,6 @@
 <hr>
  <img align="center" alt="Coding" width="100%" height="400px" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 <hr>
-<p font-size="22px"><b>🎯 Me Desenvolvendo Nas Tecnologia</b></p>
 <br>
 <h1 align="center">About me</h1>
 <p>
@@ -19,7 +18,6 @@ Tudo coberto com Docker, MongoDb, etc.
 <br>
 
 <h1 align="center" > 🛠 Hard skill:</h1>
-<hr>
 <p align="left">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
