@@ -19,7 +19,6 @@ Tudo coberto com Docker, MongoDb, etc.
 
 <h1 align="center" > 🛠 Hard skill:</h1>
 <p align="left">
- 
  <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
@@ -60,7 +59,6 @@ Tudo coberto com Docker, MongoDb, etc.
  <br>
  <br>
  <h1 align="Center">Connect with me:</h1>
-<hr>
  <a align="center" href="https://www.linkedin.com/in/eder-luis-fernandes/" target="_blank">
   <img  align="center" text-align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:eder.luis.1996@hotmail.com?subject=Contratação&body=">
