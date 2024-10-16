@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center" border="none">Hi 👋, I'm Éder Luis👋 </h1>
-<h3 align="center">Desenvolvedor FullStack</h3>
+<h3 align="center">👩‍💻 Desenvolvedor FullStack 👨‍💻 </h3>
 <hr>
  <img align="center" alt="Coding" width="100%" height="400px" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 <hr>
@@ -24,11 +24,13 @@ Tudo coberto com Docker, MongoDb, etc.
  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  </p>
+ 
  <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  </p>
+ 
  <p>
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -36,14 +38,10 @@ Tudo coberto com Docker, MongoDb, etc.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  </p>
 
-
-
-
-
-<p align="center">
+<p>
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> →
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
 
