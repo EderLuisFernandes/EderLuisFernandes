@@ -1,5 +1,7 @@
 <br>
 <br>
+<p align='right'><img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=CollarSweater&clotheColor=Black&eyeType=Wink&eyebrowType=SadConcerned&mouthType=Smile&skinColor=Brown'
+/></p>
 
 <h1 align="center" border="none">Hi 👋, I'm Éder Luis👋 </h1>
 <h3 align="center">👩‍💻 Desenvolvedor FullStack 👨‍💻 </h3>
